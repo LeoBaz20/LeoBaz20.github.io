@@ -14,9 +14,10 @@ Código. El conjunto de reglas y símbolos que se utilizan para la elaboración 
 Canal. El medio a través del cual viaja o se difunde el mensaje. Puede ser una cartelera, un folleto, un e-mail o un discurso, por poner solo algunos ejemplos de la amplia variedad de canales entre los cuales puede valerse una organización a la hora de difundir un mensaje. 
 </div>
 
-<iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/d466df61-bbe2-4346-a0bf-83de6a9dfd70">
-</iframe>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Chatbox-CO"
+  agent-id="d466df61-bbe2-4346-a0bf-83de6a9dfd70"
+  language-code="es"
+></df-messenger>
