@@ -1,5 +1,7 @@
 ## Que es Comunicación Organizacional
-La comunicación en las organizaciones tiene que ver con la difusión de mensajes con el fin de transmitir, puertas adentro, los logros y requerimientos a los miembros que la conforman. Aunque también se comunica puertas afuera y, en este caso, sirve para que la sociedad también conozca cuales son las misiones, visiones y metas de cualquier organización.
+<div style="text-align: justify">
+ La comunicación en las organizaciones tiene que ver con la difusión de mensajes con el fin de transmitir, puertas adentro, los logros y requerimientos a los miembros que la conforman. Aunque también se comunica puertas afuera y, en este caso, sirve para que la sociedad también conozca cuales son las misiones, visiones y metas de cualquier organización.
+</div>
 
 ## Elementos de la comunicación en las organizaciones
 <div style="text-align: justify">
